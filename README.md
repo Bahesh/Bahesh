@@ -23,7 +23,6 @@
 
 <div align="center">
 <h2 align="center" class="section-heading">Github Stats</h2>
-<p>Github Stats!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahesh&theme=github_dark" alt="Bahesh's GitHub Stats"/></td>   
